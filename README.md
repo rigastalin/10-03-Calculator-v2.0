@@ -2,6 +2,9 @@
 
 Implementation of SmartCalc v2.0.
 
+![GIF animation](https://github.com/rigastalin/10-03-Calculator-v2.0/blob/fa015d868825b69da69444015da8f4db683238fc/Calculator2.gif)
+
+
 ## Contents
 
 1. [Chapter I](#chapter-i) \
